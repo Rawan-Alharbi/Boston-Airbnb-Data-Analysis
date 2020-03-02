@@ -7,7 +7,8 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 2. [Project Motivation](https://github.com/Rawan-Alharbi/Boston-Airbnb-Data-Analysis#Project-Motivation)
 3. [File Descriptions](https://github.com/Rawan-Alharbi/Boston-Airbnb-Data-Analysis#File-Descriptions)
 4. [Run](https://github.com/Rawan-Alharbi/Boston-Airbnb-Data-Analysis#Run)
-5. [Licensing](https://github.com/Rawan-Alharbi/Boston-Airbnb-Data-Analysis#Licensing)
+5. [Results](https://github.com/Rawan-Alharbi/Boston-Airbnb-Data-Analysis#Results)
+6. [Licensing](https://github.com/Rawan-Alharbi/Boston-Airbnb-Data-Analysis#Licensing)
 
 ## Installations
 This project requires Python 3.x and the following Python libraries installed:
@@ -43,6 +44,9 @@ In a terminal or command window, navigate to the top-level project directory Bos
 ```
 jupyter notebook Boston_Airbnb_Data_Analysis.ipynb
 ```
+
+## Results
+Blog post discuss the results is available [here](https://medium.com/@RawanAlharbi1/boston-airbnb-data-analysis-696835d5adab)
 
 ## Licensing 
 This project is licensed under the MIT License - see the LICENSE file for details
